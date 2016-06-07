@@ -3,3 +3,5 @@ function () {
 };
 
 bla(;
+bla(;
+bla(;
